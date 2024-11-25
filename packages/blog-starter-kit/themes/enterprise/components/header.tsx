@@ -103,7 +103,7 @@ export const Header = () => {
         href="https://www.linkedin.com/in/abilash-rao-vavilala-4098b2133/" 
         target="_blank" 
         rel="noopener noreferrer"
-        className="btn btn-primary"
+        className=""btn btn-primary inline-block px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600""
     >
         Linkedin Profile
     </a>
